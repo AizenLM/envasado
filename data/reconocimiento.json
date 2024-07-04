@@ -1,0 +1,19 @@
+{
+   "leon": [
+      {"name":"Embajadores de Autonomia", "team":"León", "month": "Enero", "img": "./imgs/embajadores-de-autonomia-enero.PNG"},
+      {"name":"Los Monster 18", "team":"León", "month": "Enero", "img": "./imgs/los-monsters-18-enero.PNG"},
+      {"name":"CHINGONES 18", "team":"León", "month": "Febrero", "img": "./imgs/chingones-18-febrero.PNG"},
+      {"name":"RAZA DE BRONCE", "team":"León", "month": "Marzo", "img": "./imgs/raza-bronce-marzo.PNG"},
+      {"name":"ESCUADRON CORONA", "team":"León", "month": "Abril", "img": "./imgs/escuadron-corona-abril.PNG"},
+      {"name":"ESPARTANOS", "team":"León", "month": "Mayo", "img": "./imgs/espartanos-mayo.PNG"},
+      {"name":"GOLDEN PREMIUM", "team":"León", "month": "Mayo", "img": "./imgs/golden-premium-mayo.PNG"}
+      
+   ],
+   "victorioso":[
+      {"name":"JORGE LUIS LOPEZ AGUILAR", "team":"Victorioso", "month": "Enero", "img": "./imgs/jorge-victorioso-enero.PNG"},
+      {"name":"ALEJANDRO AGUILAR CERVANTES", "team":"Victorioso", "month": "Febrero", "img": "./imgs/alejandro-victorioso-febrero.PNG"},
+      {"name":"ALEJANDRO ARATH MORENO GARCIA", "team":"Victorioso", "month": "Marzo", "img": "./imgs/alejandro-victorioso-marzo.PNG"},
+      {"name":"MARCO ALONSO MONDRAGON LOPEZ", "team":"Victorioso", "month": "Abril", "img": "./imgs/marco-victorioso-abril.PNG"},
+      {"name":"XOCHITL ALINE MARTINEZ GALVEZ", "team":"Victorioso", "month": "Mayo", "img": "./imgs/xochitl-victorioso-mayo.PNG"}
+   ]
+}

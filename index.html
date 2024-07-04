@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Reconocimientos</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <h1><a href="index.html">Envasado</a></h1>
+        <ul>
+          <li><button id="btn-leon">Equipo León</button></li>
+          <li><button id="btn-victorioso">Equipo Victorioso</button></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div id="team"></div>
+      <select id="month-select">
+        <option value="todos">Todos</option>
+        <option value="enero">Enero</option>
+        <option value="febrero">Febrero</option>
+        <option value="marzo">Marzo</option>
+        <option value="abril">Abril</option>
+        <option value="mayo">Mayo</option>
+        <option value="junio">Junio</option>
+        <option value="julio">Julio</option>
+        <option value="agosto">Agosto</option>
+        <option value="septiembre">Septiembre</option>
+        <option value="octubre">Octubre</option>
+        <option value="noviembre">Noviembre</option>
+        <option value="diciembre">Diciembre</option>
+
+        <!-- Agrega más opciones aquí -->
+      </select>
+      <section id="pdf-list" class="pdf-list"></section>
+      <div id="message-error">
+        <h2>NO SE ENCONTRO NINGUN RECONOCIMIENTO CON ESE MES 😢</h2>
+      </div>
+    </main>
+    <footer>
+      <p>&copy; 2024 Tu Nombre</p>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
